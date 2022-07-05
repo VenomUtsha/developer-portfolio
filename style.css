@@ -13,7 +13,7 @@ h1 {
     color: orange;
 }
 
-section {
+.moja-moja {
     display: flex;
 }
 
@@ -42,4 +42,30 @@ section {
 .new-one {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+
+.new-two {
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+#valo-achi {
+    box-shadow: grey 10px 10px 10px 10px;
+    margin: 50px 50px 50px 50px;
+    padding: 40px;
+    border-left: 10px solid orangered;
+}
+
+#valo-nei {
+    box-shadow: grey 10px 10px 10px 10px;
+    margin: 50px 50px 50px 50px;
+    padding: 40px;
+    border-right: 10px solid navy;
+}
+
+.new-three {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
 }
