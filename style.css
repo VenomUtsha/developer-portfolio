@@ -1,0 +1,45 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+    margin: 0%;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.orange-colour {
+
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.half-width img {
+    width: 85%;
+    padding-top: 5%;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.kire-mamo {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    border-radius: 5px;
+    padding: 10px 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-size: small;
+
+}
+
+.new-one {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
